@@ -54,3 +54,8 @@ Multiple methods are also necessary for the game to work such as:
   1. Open index.html file.
   2. Start moving the player by pressing the keyboard arrows (left, right, up and down).
   3. Avoid the collision with bugs to win the game.
+
+
+![Screenshot](https://github.com/abeerqqq/frontend-nanodegree-arcade-game-master/blob/master/images/Arcade%20Game%20pic1.png)
+![Screenshot](https://github.com/abeerqqq/frontend-nanodegree-arcade-game-master/blob/master/images/Arcade%20Game%20pic2.png)
+
